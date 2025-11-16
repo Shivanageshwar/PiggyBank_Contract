@@ -5,7 +5,7 @@ Only the owner can deposit and withdraw. Withdrawal is allowed **after the lock 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Owner-only deposit and withdraw
 - Adjustable lock time (in seconds)
@@ -18,9 +18,9 @@ Only the owner can deposit and withdraw. Withdrawal is allowed **after the lock 
 
 ---
 
-## 📄 How It Works
+##  How It Works
 
-### 1️⃣ Deploy
+### Deploy
 Provide a lock time (in seconds):
 
 ```solidity
