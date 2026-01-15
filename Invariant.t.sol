@@ -2,7 +2,7 @@
 pragma solidity 0.8.26;
 
 import "forge-std/Test.sol";
-import "../../src/PiggyBank.sol";
+import "PiggyBank.sol";
 import "./Handler.sol";
 
 contract PiggyBankInvariant is Test {
